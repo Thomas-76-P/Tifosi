@@ -1,0 +1,19 @@
+Bonjour, monsieur le professeur/correcteur, je n'ai pas trop compris la marche à suivre concernant le devoir.
+Aussi, je n'ai pas bien cerné le cours MySQL et surtout l'utilisation du/des logiciels nécessaires.
+
+Je préfère avoir 0/20 et avancé, d'ailleurs si vous avez des tuto's que vous jugez bon, pour m'aider à comprendre ces cours je suis tout ouï, j'ai cherché sur YouTube etc., mais ce n'était pas totalement ce que je cherchais et dont j'avais besoin.
+
+Voici tout de même le structure à laquelle j'avais pensé.
+
+
+
+
+
+
+
+tifosi/
+│
+├── 01_schema.sql
+├── 02_insert.sql
+├── 03_tests.sql
+└── README.md
